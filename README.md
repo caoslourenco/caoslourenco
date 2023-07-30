@@ -112,10 +112,9 @@ with any question, advice, or to share your knowledge! 🖖🦦
 <details>
 <summary> 🌎 Languages</summary>
 <div>
-
-🔹- Portuguese
-🔸- English
-🔸- Spanish
+🔻 Portuguese
+ 🔹 English
+ 🔸 Spanish
 
 </div>
 </details>
