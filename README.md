@@ -17,13 +17,25 @@ I'm a Software Engineering student at 42SP and graduated in Journalism from PUC 
 - 🌱 Junior Development
 
 
-## 42SP • [42 São Paulo](https://www.42sp.org.br/ "42 São Paulo")
+## • [42 São Paulo](https://www.42sp.org.br/ "42 São Paulo")
 
 <details>
 <summary>Phase One</summary>
 <div>
     </br>
     <img title="libft" height="100" src="https://badge42.herokuapp.com/api/stats/clourenc?cursus=libft">
+    </br>
+      </br>
+    <img title="gnl" height="100" src="https://badge42.herokuapp.com/api/stats/clourenc?cursus=libft">
+    </br>
+      </br>
+    <img title="printf" height="100" src="https://badge42.herokuapp.com/api/stats/clourenc?cursus=libft">
+    </br>
+      </br>
+    <img title="born" height="100" src="https://badge42.herokuapp.com/api/stats/clourenc?cursus=libft">
+    </br>
+      </br>
+    <img title="pipex" height="100" src="https://badge42.herokuapp.com/api/stats/clourenc?cursus=libft">
     </br>
 </div>
 </details>
@@ -32,7 +44,19 @@ I'm a Software Engineering student at 42SP and graduated in Journalism from PUC 
 <summary>Phase Two</summary>
 <div>
     </br>
-    <img title="libft" height="100" src="https://badge42.herokuapp.com/api/stats/clourenc?cursus=libft">
+    <img title="push_swap" height="100" src="https://badge42.herokuapp.com/api/stats/clourenc?cursus=libft">
+    </br>
+      </br>
+    <img title="Minishell" height="100" src="https://badge42.herokuapp.com/api/stats/clourenc?cursus=libft">
+    </br>
+      </br>
+    <img title="philo" height="100" src="https://badge42.herokuapp.com/api/stats/clourenc?cursus=libft">
+    </br>
+      </br>
+    <img title="net" height="100" src="https://badge42.herokuapp.com/api/stats/clourenc?cursus=libft">
+    </br>
+      </br>
+    <img title="cub3d" height="100" src="https://badge42.herokuapp.com/api/stats/clourenc?cursus=libft">
     </br>
 </div>
 </details>
@@ -41,7 +65,16 @@ I'm a Software Engineering student at 42SP and graduated in Journalism from PUC 
 <summary>Phase Three</summary>
 <div>
     </br>
-    <img title="libft" height="100" src="https://badge42.herokuapp.com/api/stats/clourenc?cursus=libft">
+    <img title="cpp" height="100" src="https://badge42.herokuapp.com/api/stats/clourenc?cursus=libft">
+    </br>
+      </br>
+    <img title="inception" height="100" src="https://badge42.herokuapp.com/api/stats/clourenc?cursus=libft">
+    </br>
+      </br>
+    <img title="webserver" height="100" src="https://badge42.herokuapp.com/api/stats/clourenc?cursus=libft">
+    </br>
+      </br>
+    <img title="transcend" height="100" src="https://badge42.herokuapp.com/api/stats/clourenc?cursus=libft">
     </br>
 </div>
 </details>
