@@ -9,14 +9,19 @@
 <details>
 <summary> 👨‍💻 About Me</summary>
 <div>
-I'm a Software Engineering student at 42SP and graduated in Journalism from PUC Campinas.
-I am transitioning to a technology career, seeking to unite my creative skills with 
-my passion for digital solutions and innovation. My goal is to use my knowledge and 
-experience to empower others and solve real-world problems. Feel free to contact me 
-with any question, advice, or to share your knowledge! 🖖🦦
-</p>
+  
+- Software Engineering student at 42SP with a background in Journalism.
+- Transitioning to a technology career:
+  - Combining creativity with digital solutions.
+- Goal: Empower others and solve real-world problems.
+- Feel free to contact me for questions, advice, or knowledge sharing! 🖖🦦
+
 </div>
 </details>
+
+
+
+
 
 <details>
 <summary>🚀 Skills</summary>
@@ -30,62 +35,32 @@ with any question, advice, or to share your knowledge! 🖖🦦
 </div>
 </details>
 
+<details>
+  <summary>🛸 42 São Paulo</summary>
+  
+  <small>
+
+  ### [🚀 Projects](https://github.com/caoslourenco/42Projects)
+  
+  - [Phase 1](https://github.com/caoslourenco/42Projects/phase1)
+  - [Phase 2](https://github.com/caoslourenco/42Projects/phase2)
+  - [Phase 3](https://github.com/caoslourenco/42Projects/phase3)
+
+  </small>
+</details>
+
 
 <details>
-<summary>🛸 42 São Paulo</summary>
-
-<details>
-<summary>Phase One</summary>
+<summary>📬 Get in Touch</summary>
 <div>
-    </br>
-    <img title="libft" height="100" src="https://badge42.herokuapp.com/api/stats/clourenc?cursus=libft">
-    </br>
-    <img title="gnl" height="100" src="https://badge42.herokuapp.com/api/stats/clourenc?cursus=libft">
-    </br>
-    <img title="printf" height="100" src="https://badge42.herokuapp.com/api/stats/clourenc?cursus=libft">
-    </br>
-    <img title="born" height="100" src="https://badge42.herokuapp.com/api/stats/clourenc?cursus=libft">
-    </br>
-    <img title="pipex" height="100" src="https://badge42.herokuapp.com/api/stats/clourenc?cursus=libft">
-    </br>
+
+- 📧 [Email](mailto:clourenc@student.42sp.org.br)
+- 💼 [LinkedIn](https://linkedin.com.br/in/camilla-lourenco)
+- 🐦 [Twitter](https://twitter.com/caoslourenco)
+- 🤳 [Instagram](https://www.instagram.com/caoslourenco/)
+
 </div>
 </details>
-
-<details>
-<summary>Phase Two</summary>
-<div>
-    </br>
-    <img title="push_swap" height="100" src="https://badge42.herokuapp.com/api/stats/clourenc?cursus=libft">
-    </br>
-    <img title="Minishell" height="100" src="https://badge42.herokuapp.com/api/stats/clourenc?cursus=libft">
-    </br>
-    <img title="philo" height="100" src="https://badge42.herokuapp.com/api/stats/clourenc?cursus=libft">
-    </br>
-    <img title="net" height="100" src="https://badge42.herokuapp.com/api/stats/clourenc?cursus=libft">
-    </br>
-    <img title="cub3d" height="100" src="https://badge42.herokuapp.com/api/stats/clourenc?cursus=libft">
-    </br>
-</div>
-</details>
-
-<details>
-<summary>Phase Three</summary>
-<div>
-    </br>
-    <img title="cpp" height="100" src="https://badge42.herokuapp.com/api/stats/clourenc?cursus=libft">
-    </br>
-    <img title="inception" height="100" src="https://badge42.herokuapp.com/api/stats/clourenc?cursus=libft">
-    </br>
-    <img title="webserver" height="100" src="https://badge42.herokuapp.com/api/stats/clourenc?cursus=libft">
-    </br>
-    <img title="transcend" height="100" src="https://badge42.herokuapp.com/api/stats/clourenc?cursus=libft">
-    </br>
-</div>
-</details>
-
-</details>
-
-
 
 <details>
 <summary>📬 Get in Touch</summary>
@@ -112,12 +87,15 @@ with any question, advice, or to share your knowledge! 🖖🦦
 <details>
 <summary> 🌎 Languages</summary>
 <div>
-🔻 Portuguese
- 🔹 English
- 🔸 Spanish
+
+- 🔻 Portuguese
+- 🔹 English
+- 🔸 Spanish
 
 </div>
 </details>
+
+
 
   
 <details>
