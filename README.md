@@ -15,7 +15,8 @@ I'm a Software Engineering student at 42SP and graduated in Journalism from PUC 
 - 📧 [Email](mailto:clourenc@student.42sp.org.br)
 - 💼 [LinkedIn](https://linkedin.com.br/in/camilla-lourenco)
 - 🐦 [Twitter](https://twitter.com/caoslourenco)
-
+- 🤳 [Instagram](https://www.instagram.com/caoslourenco/)
+  
 ## 📊 GitHub Stats
 [![Caos Lourenco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=caoslourenco&show_icons=true&bg_color=0d1117&title_color=8b949e&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/caoslourenco/github-readme-stats)
 
@@ -24,6 +25,7 @@ I'm a Software Engineering student at 42SP and graduated in Journalism from PUC 
 - English
 
 ## 💻 Programming Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caoslourenco&layout=compact&bg_color=0d1117&title_color=8b949e&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/caoslourenco/github-readme-stats)
-
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=clourenc)](https://github.com/mohouyizme/1337-readme)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caoslourenco&layout=compact&bg_color=0d1117&title_color=8b949e&icon_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="48%" />
+  <img src="https://badge42.vercel.app/api/v2/cl44ys7sc00310al9y8zqnige/stats?cursusId=21&coalitionId=undefined" alt="42 Stats" width="48%" />
+</p>
