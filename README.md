@@ -15,9 +15,9 @@ I'm a Software Engineering student at 42SP and graduated in Journalism from PUC 
 - 🎨 UX Design
 - 🕹️ Game Development
 - 🌱 Junior Development
-<summary>42 São Paulo</summary>
 
-###### • [42 São Paulo](https://www.42sp.org.br/ "42 São Paulo")
+
+## 42SP • [42 São Paulo](https://www.42sp.org.br/ "42 São Paulo")
 
 <details>
 <summary>Phase One</summary>
@@ -28,6 +28,25 @@ I'm a Software Engineering student at 42SP and graduated in Journalism from PUC 
 </div>
 </details>
 </details>
+<details>
+<summary>Phase Two</summary>
+<div>
+    </br>
+    <img title="libft" height="100" src="https://badge42.herokuapp.com/api/stats/clourenc?cursus=libft">
+    </br>
+</div>
+</details>
+</details>
+<details>
+<summary>Phase Three</summary>
+<div>
+    </br>
+    <img title="libft" height="100" src="https://badge42.herokuapp.com/api/stats/clourenc?cursus=libft">
+    </br>
+</div>
+</details>
+</details>
+
 
 ## 📬 Get in Touch
 - 📧 [Email](mailto:clourenc@student.42sp.org.br)
