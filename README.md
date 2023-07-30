@@ -62,20 +62,7 @@
 </div>
 </details>
 
-<details>
-<summary>📬 Get in Touch</summary>
-<div>
-
-- 📧 [Email](mailto:clourenc@student.42sp.org.br)
-- 💼 [LinkedIn](https://linkedin.com.br/in/camilla-lourenco)
-- 🐦 [Twitter](https://twitter.com/caoslourenco)
-- 🤳 [Instagram](https://www.instagram.com/caoslourenco/)
-
-</div>
-</details>
-
-
-
+ 
 <details>
 <summary>  📊 GitHub Stats</summary>
   
