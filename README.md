@@ -3,12 +3,21 @@
 
 Welcome to my GitHub profile! Enjoy your stay.
 
-<p align="center">
+<p align="right">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Welcome GIF" width="48%" />
-  <div>
-    
+</p>
+
+<p align="left">
+
 ## 👨‍💻 About Me
-I'm a Software Engineering student at 42SP and graduated in Journalism from PUC Campinas. I am transitioning to a technology career, seeking to unite my creative skills with my passion for digital solutions and innovation. My goal is to use my knowledge and experience to empower others and solve real-world problems. Feel free to contact me with any question, advice, or to share your knowledge! 🖖🦦
+I'm a Software Engineering student at 42SP and graduated in Journalism from PUC Campinas.
+I am transitioning to a technology career, seeking to unite my creative skills with 
+my passion for digital solutions and innovation. My goal is to use my knowledge and 
+experience to empower others and solve real-world problems. Feel free to contact me 
+with any question, advice, or to share your knowledge! 🖖🦦
+</p>
+
+
 
 ## 🚀 Skills
 - 🖥️ C
