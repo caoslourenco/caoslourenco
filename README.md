@@ -6,24 +6,33 @@
 
 <p align="left">
 
-## 👨‍💻 About Me
+<details>
+<summary> 👨‍💻 About Me</summary>
+<div>
 I'm a Software Engineering student at 42SP and graduated in Journalism from PUC Campinas.
 I am transitioning to a technology career, seeking to unite my creative skills with 
 my passion for digital solutions and innovation. My goal is to use my knowledge and 
 experience to empower others and solve real-world problems. Feel free to contact me 
 with any question, advice, or to share your knowledge! 🖖🦦
 </p>
+</div>
+</details>
 
+<details>
+<summary>🚀 Skills</summary>
+<div>
 
-
-## 🚀 Skills
 - 🖥️ C
 - 🎨 UX Design
 - 🕹️ Game Development
 - 🌱 Junior Development
 
+</div>
+</details>
 
-## • [42 São Paulo](https://www.42sp.org.br/ "42 São Paulo")
+
+<details>
+<summary>🛸 42 São Paulo</summary>
 
 <details>
 <summary>Phase One</summary>
@@ -31,83 +40,96 @@ with any question, advice, or to share your knowledge! 🖖🦦
     </br>
     <img title="libft" height="100" src="https://badge42.herokuapp.com/api/stats/clourenc?cursus=libft">
     </br>
-      </br>
     <img title="gnl" height="100" src="https://badge42.herokuapp.com/api/stats/clourenc?cursus=libft">
     </br>
-      </br>
     <img title="printf" height="100" src="https://badge42.herokuapp.com/api/stats/clourenc?cursus=libft">
     </br>
-      </br>
     <img title="born" height="100" src="https://badge42.herokuapp.com/api/stats/clourenc?cursus=libft">
     </br>
-      </br>
     <img title="pipex" height="100" src="https://badge42.herokuapp.com/api/stats/clourenc?cursus=libft">
     </br>
 </div>
 </details>
-</details>
+
 <details>
 <summary>Phase Two</summary>
 <div>
     </br>
     <img title="push_swap" height="100" src="https://badge42.herokuapp.com/api/stats/clourenc?cursus=libft">
     </br>
-      </br>
     <img title="Minishell" height="100" src="https://badge42.herokuapp.com/api/stats/clourenc?cursus=libft">
     </br>
-      </br>
     <img title="philo" height="100" src="https://badge42.herokuapp.com/api/stats/clourenc?cursus=libft">
     </br>
-      </br>
     <img title="net" height="100" src="https://badge42.herokuapp.com/api/stats/clourenc?cursus=libft">
     </br>
-      </br>
     <img title="cub3d" height="100" src="https://badge42.herokuapp.com/api/stats/clourenc?cursus=libft">
     </br>
 </div>
 </details>
-</details>
+
 <details>
 <summary>Phase Three</summary>
 <div>
     </br>
     <img title="cpp" height="100" src="https://badge42.herokuapp.com/api/stats/clourenc?cursus=libft">
     </br>
-      </br>
     <img title="inception" height="100" src="https://badge42.herokuapp.com/api/stats/clourenc?cursus=libft">
     </br>
-      </br>
     <img title="webserver" height="100" src="https://badge42.herokuapp.com/api/stats/clourenc?cursus=libft">
     </br>
-      </br>
     <img title="transcend" height="100" src="https://badge42.herokuapp.com/api/stats/clourenc?cursus=libft">
     </br>
 </div>
 </details>
+
 </details>
 
 
-## 📬 Get in Touch
+
+<details>
+<summary>📬 Get in Touch</summary>
+<div>
+
 - 📧 [Email](mailto:clourenc@student.42sp.org.br)
 - 💼 [LinkedIn](https://linkedin.com.br/in/camilla-lourenco)
 - 🐦 [Twitter](https://twitter.com/caoslourenco)
 - 🤳 [Instagram](https://www.instagram.com/caoslourenco/)
 
+</div>
+</details>
 
-## 📊 GitHub Stats
+
+
+<details>
+<summary>  📊 GitHub Stats</summary>
+  
 [![Caos Lourenco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=caoslourenco&show_icons=true&bg_color=0d1117&title_color=8b949e&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/caoslourenco/github-readme-stats)
 
-## 🌎 Languages
-- Portuguese
-- English
-- Spanish
+</div>
+</details>
+
+<details>
+<summary> 🌎 Languages</summary>
+<div>
+
+🔹- Portuguese
+🔸- English
+🔸- Spanish
+
+</div>
+</details>
+
   
-## 💻 Programming Languages and 42 Stats
+<details>
+<summary>  💻 Programming Languages and 42 Stats</summary>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caoslourenco&layout=compact&bg_color=0d1117&title_color=8b949e&icon_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="48%" />
   <img src="https://badge42.vercel.app/api/v2/cl44ys7sc00310al9y8zqnige/stats?cursusId=21&coalitionId=undefined" alt="42 Stats" width="48%" />
 </p>
-
+</div>
+</details>
 
 ---
 
