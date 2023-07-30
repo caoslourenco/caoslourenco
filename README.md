@@ -1,11 +1,8 @@
-# 👋 Hello, World! I'm Caos Lourenco
+# 👋 Hello, World! I'm Caos 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=caoslourenco.caoslourenco)
 
-Welcome to my GitHub profile! Enjoy your stay.
-
-<p align="right">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Welcome GIF" width="48%" />
-</p>
+  
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Welcome GIF" width="48%" align="right" alt="Caos Lourenco">
 
 <p align="left">
 
