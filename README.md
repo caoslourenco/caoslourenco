@@ -1,9 +1,4 @@
 # 👋 Hello, World! I'm Caos 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=clourenc&label=Lunatic+Landings+%F0%9F%91%A8%E2%80%8D%F0%9F%9A%80&color=6e5494" alt="Lunatic Landings 👨‍🚀"/>
-</p>
-
-
 
   
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Welcome GIF" width="48%" align="right" alt="Caos Lourenco">
@@ -106,3 +101,6 @@
 <img title="An animated joke." src="https://readme-typing-svg.herokuapp.com/?width=500&height=30&font=Roboto&color=adbac7&vCenter=true&size=16&duration=4000&lines=%E2%80%A2+I'm+so+good+at+programming+that+sometimes+even+the+computer+is+surprised.;%E2%80%A2+I+don't+see+bugs+in+my+code%2C+just+unexpected+features.;%E2%80%A2+I+don't+always+test+my+code%2C+but+when+I+do%2C+I+do+it+in+production.;%E2%80%A2+I'm+not+lazy%2C+I'm+just+in+energy+saving+mode.;%E2%80%A2+If+life+gives+you+lemons%2C+write+a+script+to+squeeze+them.;%E2%80%A2+My+code+never+has+errors%2C+it+just+develops+random+features.;%E2%80%A2+I+don't+call+it+procrastination%2C+I+call+it+'deadline-driven+programming'.;%E2%80%A2+I'm+not+a+coder%2C+I'm+a+problem+solver+that+uses+code.;%E2%80%A2+I+don't+drink+coffee+to+code%2C+I+code+to+drink+coffee.;%E2%80%A2+I'm+not+addicted+to+coding%2C+just+highly+committed.">
 </details>
 <!-- Herobrine: I'm still here, boy. -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=clourenc&label=Lunatic+Landings+%F0%9F%91%A8%E2%80%8D%F0%9F%9A%80&color=6e5494" alt="Lunatic Landings 👨‍🚀"/>
+</p>
