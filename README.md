@@ -40,7 +40,7 @@
 </details>
 
 <details>
-  <summary>🛸 42 São Paulo</summary>
+  <summary>🛸 42 </summary>
   
   <small>
 
