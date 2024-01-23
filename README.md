@@ -1,5 +1,9 @@
 # 👋 Hello, World! I'm Caos 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=caoslourenco.caoslourenco)
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=clourenc&label=Lunatic+Landings+%F0%9F%91%A8%E2%80%8D%F0%9F%9A%80&color=6e5494" alt="Lunatic Landings 👨‍🚀"/>
+</p>
+
+
 
   
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Welcome GIF" width="48%" align="right" alt="Caos Lourenco">
@@ -11,11 +15,11 @@
 <div>
   
 - Software Engineering student at 42SP with a background in Journalism.
-- Transitioning to a technology career:
-  - Combining creativity with digital solutions.
-- Goal: Empower others and solve real-world problems.
-- Feel free to contact me for questions, advice, or knowledge sharing! 🖖🦦
-
+- Launching into a new mission: Transitioning to a tech career:
+  - Where creativity meets digital solutions. 
+- Goal:Empower individuals and solve real-world problems through technology.
+- Feel free to reach out for questions, advice, or knowledge sharing! 
+     - Live long and prosper 🖖🦦
 </div>
 </details>
 
@@ -72,7 +76,7 @@
 </details>
 
 <details>
-<summary> 🌎 Languages</summary>
+<summary> 🗣️ Languages</summary>
 <div>
 
 - 🔻 Portuguese
@@ -90,7 +94,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caoslourenco&layout=compact&bg_color=0d1117&title_color=8b949e&icon_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="48%" />
-  <img src="https://badge42.vercel.app/api/v2/cl44ys7sc00310al9y8zqnige/stats?cursusId=21&coalitionId=undefined" alt="42 Stats" width="48%" />
+  <img src="[![clourenc's 42 stats](https://badge.mediaplus.ma/darkblue/clourenc)} https://profile.intra.42.fr/users/" alt="42 Stats" width="48%" />
+
+
 </p>
 </div>
 </details>
