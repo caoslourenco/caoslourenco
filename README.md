@@ -66,7 +66,7 @@
 </details>
 
 <details>
-<summary> 🗣️ </summary>
+<summary> 🗣️ Talk to me </summary>
 <div>
 
 - 🔻 Portuguese
