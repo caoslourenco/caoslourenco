@@ -9,12 +9,11 @@
 <summary> 👨‍💻 About Me</summary>
 <div>
   
-- Software Engineering student at 42SP with a background in Journalism.
-- Launching into a new mission: Transitioning to a tech career:
-  - Where creativity meets digital solutions. 
-- Goal:Empower individuals and solve real-world problems through technology.
+- Software Engineering student at 42SP with a background in journalism.
+- Launching into a new mission: Transitioning to a tech career (where creativity meets digital solutions)
+- Goal: Hack the matrix, empower individuals and solve real-world problems through technology.
 - Feel free to reach out for questions, advice, or knowledge sharing! 
-     - Live long and prosper 🖖🦦
+     - Live long and prosper, and don’t forget your towel! 🖖🦦
 </div>
 </details>
 
@@ -39,12 +38,8 @@
   
   <small>
 
-  ### [🚀 Projects](https://github.com/caoslourenco/42Projects)
-  
-  - [Phase 1](https://github.com/caoslourenco/42Projects/phase1)
-  - [Phase 2](https://github.com/caoslourenco/42Projects/phase2)
-  - [Phase 3](https://github.com/caoslourenco/42Projects/phase3)
-
+  - [🚀 Projects](https://github.com/caoslourenco/42Projects)
+ 
   </small>
 </details>
 
@@ -71,7 +66,7 @@
 </details>
 
 <details>
-<summary> 🗣️ Languages</summary>
+<summary> 🗣️ </summary>
 <div>
 
 - 🔻 Portuguese
