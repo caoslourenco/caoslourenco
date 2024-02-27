@@ -25,7 +25,7 @@
 <summary>🚀 Skills</summary>
 <div>
 
-- 🖥️ C
+- 🖥️ C language
 - 🎨 UX Design
 - 🕹️ Game Development
 - 🌱 Junior Development
