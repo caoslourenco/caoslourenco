@@ -34,11 +34,15 @@
 </details>
 
 <details>
-  <summary>🛸 42 </summary>
+  <summary>🛸 Code Projects </summary>
   
   <small>
 
-  - [🚀 Projects](https://github.com/caoslourenco/42Projects)
+  - [🚀 42Ecole](https://github.com/caoslourenco/42Projects)
+  - [👩‍💻 Generation Brasil]( https://github.com/caoslourenco/Generation_Bootcamp_Java)
+  - [🚩 Free4code]( https://github.com/Free-4code )
+  - [🎲 Quarf-AI](  https://github.com/Quarf-AI)
+
  
   </small>
 </details>
