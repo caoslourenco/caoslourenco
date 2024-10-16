@@ -38,10 +38,13 @@
   
   <small>
 
-  - [🚀 42Ecole](https://github.com/caoslourenco/42Projects)
-  - [👩‍💻 Generation Brasil]( https://github.com/caoslourenco/Generation_Bootcamp_Java)
-  - [🚩 Free4code]( https://github.com/Free-4code )
-  - [🎲 Quarf-AI](  https://github.com/Quarf-AI)
+   > [🚀 42Ecole](https://github.com/caoslourenco/42Projects)
+> 
+   > [👩‍💻 Generation Brasil]( https://github.com/caoslourenco/Generation_Bootcamp_Java)
+> 
+   > [ 🚩Free4code]( https://github.com/Free-4code )
+> 
+   > [🎲 Quarf-AI](  https://github.com/Quarf-AI)
 
  
   </small>
